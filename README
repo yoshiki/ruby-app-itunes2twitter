@@ -3,7 +3,7 @@
 This application is command line tool written in Ruby
 to post your listening songs on iTunes to Twitter.
 
-* Preparement
+* How to use?
 
 Create '$HOME/.twitter', and write bellow informations.
 
