@@ -1,0 +1,16 @@
+* What is itunes2twitter.rb?
+
+This application is command line tool written in Ruby
+to post your listening songs on iTunes to Twitter.
+
+* Preparement
+
+Create '$HOME/.twitter', and write bellow informations.
+
+username: your_twitter_username
+password: your_twitter_password
+
+And just run script.
+
+  % ./itunes2twitter.rb
+
